@@ -1,3 +1,4 @@
 # Multitask learning with BERT
 
-Project Report and Poster can be found here.
+The poster (poster.jpg) provides a summary of this project.
+Project Report provides a detailed explanation of the project.
