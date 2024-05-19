@@ -6,5 +6,5 @@ The poster (poster.jpg) provides a summary of this project.
 Project Report (Project_report.pdf) provides a detailed explanation of the project.
 
 <p align="center">
-  <img src="poster.jpg" width="350" title="hover text">
+  <img src="poster.jpg" width="1000" title="hover text">
 </p>
